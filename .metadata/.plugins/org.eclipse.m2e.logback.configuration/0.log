@@ -1,0 +1,13 @@
+2021-09-11 22:37:07,931 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-09-11 22:41:53,352 [Worker-20: Creating project "com.kiosk"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.kiosk:com.kiosk:0.0.1-SNAPSHOT @ C:\Users\minfr\git\Kiosk\com.kiosk\pom.xml.
+2021-09-11 22:41:54,835 [Worker-20: Creating project "com.kiosk"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /com.kiosk/src/main/java
+2021-09-11 22:41:54,838 [Worker-20: Creating project "com.kiosk"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /com.kiosk/src/main/resources
+2021-09-11 22:41:54,843 [Worker-20: Creating project "com.kiosk"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /com.kiosk/src/test/java
+2021-09-11 22:41:54,843 [Worker-20: Creating project "com.kiosk"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /com.kiosk/src/test/resources
+2021-09-11 22:41:57,834 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-11 22:41:57,847 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-11 22:41:57,852 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-11 22:41:57,855 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-09-11 22:42:03,504 [Worker-20: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.kiosk:com.kiosk:0.0.1-SNAPSHOT @ C:\Users\minfr\git\Kiosk\kiosk\pom.xml.
+2021-09-11 22:42:04,533 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-11 22:42:04,536 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
